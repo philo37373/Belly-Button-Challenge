@@ -1,0 +1,22 @@
+#custom-bg {
+    background-image: url('https://www.freepik.com/premium-photo/medical-illustration-bacteria-cells_10757053.htm#query=bacteria&position=9&from_view=search&track=sph?sign-up=email');
+    -webkit-background-size: cover; 
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#text {
+    font-weight: bold;
+    font-size: large;
+}
+
+.col-md-12.jumbotron.text-center {
+    background-image: url('https://www.freepik.com/premium-photo/medical-illustration-bacteria-cells_10757053.htm#query=bacteria&position=9&from_view=search&track=sph?sign-up=email');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:white;
+}   
